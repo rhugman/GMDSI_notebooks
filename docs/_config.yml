@@ -4,7 +4,7 @@ remote_theme: gmdsi/just-the-docs
 title: GMDSI Notebooks
 description: Tutorial Notebooks for Decision-Support Groundwater Modelling
 baseurl: "/GMDSI_notebooks" # the subpath of your site, e.g. /blog
-url: "https://rhugman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gmdsi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #markdown: CommonMarkGhPages #kramdown 
-color_scheme: github-markdown.css
+#color_scheme: github-markdown.css
 
